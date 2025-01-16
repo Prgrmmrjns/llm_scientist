@@ -1,0 +1,16 @@
+Title: Whole-genome sequencing reveals host factors underlying critical COVID-19.
+Authors: Kousathanas A, Pairo-Castineira E, Rawlik K, Stuckey A, Odhams CA, Walker S, Russell CD, Malinauskas T, Wu Y, Millar J, Shen X, Elliott KS, Griffiths F, Oosthuyzen W, Morrice K, Keating S, Wang B, Rhodes D, Klaric L, Zechner M, Parkinson N, Siddiq A, Goddard P, Donovan S, Maslove D, Nichol A, Semple MG, Zainy T, Maleady-Crowe F, Todd L, Salehi S, Knight J, Elgar G, Chan G, Arumugam P, Patch C, Rendon A, Bentley D, Kingsley C, Kosmicki JA, Horowitz JE, Baras A, Abecasis GR, Ferreira MAR, Justice A, Mirshahi T, Oetjens M, Rader DJ, Ritchie MD, Verma A, Fowler TA, Shankar-Hari M, Summers C, Hinds C, Horby P, Ling L, McAuley D, Montgomery H, Openshaw PJM, Elliott P, Walsh T, Tenesa A, Fawkes A, Murphy L, Rowan K, Ponting CP, Vitart V, Wilson JF, Yang J, Bretherick AD, Scott RH, Hendry SC, Moutsianas L, Law A, Caulfield MJ, Baillie JK
+Journal: Nature
+Year: 2022
+DOI: 10.1038/s41586-022-04576-6
+PMID: 35255492
+
+Abstract:
+Critical COVID-19 is caused by immune-mediated inflammatory lung injury. Host
+
+Relevance Assessment:
+Score: N/A
+Explanation: N/A
+
+PDF Status:
+Download Status: not_attempted

@@ -1,0 +1,16 @@
+Title: Plitidepsin has potent preclinical efficacy against SARS-CoV-2 by targeting the
+Authors: White KM, Rosales R, Yildiz S, Kehrer T, Miorin L, Moreno E, Jangra S, Uccellini MB, Rathnasinghe R, Coughlan L, Martinez-Romero C, Batra J, Rojc A, Bouhaddou M, Fabius JM, Obernier K, Dejosez M, Guillen MJ, Losada A, Aviles P, Schotsaert M, Zwaka T, Vignuzzi M, Shokat KM, Krogan NJ, Garcia-Sastre A
+Journal: Science (New York, N.Y.)
+Year: 2021
+DOI: 10.1126/science.abf4058
+PMID: 33495306
+
+Abstract:
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) viral proteins
+
+Relevance Assessment:
+Score: N/A
+Explanation: N/A
+
+PDF Status:
+Download Status: not_attempted

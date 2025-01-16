@@ -1,0 +1,108 @@
+2025-01-16 12:56:32,897 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 12:56:42,083 - INFO - Attempting to download PDF for study 38036861
+2025-01-16 12:56:43,003 - ERROR - Error downloading PDF for study 38036861: URL does not point to a PDF (content-type: text/html; charset="utf-8")
+2025-01-16 12:56:43,004 - INFO - Attempting to download PDF for study 37989769
+2025-01-16 12:56:43,925 - ERROR - Error downloading PDF for study 37989769: URL does not point to a PDF (content-type: text/html; charset="utf-8")
+2025-01-16 12:56:43,926 - INFO - Attempting to download PDF for study 37943932
+2025-01-16 12:56:44,127 - ERROR - Error downloading PDF for study 37943932: 403 Client Error: Forbidden for url: https://www.science.org/doi/10.1126/science.abo7201
+2025-01-16 12:56:44,127 - INFO - Attempting to download PDF for study 36991119
+2025-01-16 12:56:44,821 - ERROR - Error downloading PDF for study 36991119: URL does not point to a PDF (content-type: text/html; charset="utf-8")
+2025-01-16 12:56:44,822 - INFO - Attempting to download PDF for study 36624237
+2025-01-16 12:56:45,461 - ERROR - Error downloading PDF for study 36624237: URL does not point to a PDF (content-type: text/html; charset="utf-8")
+2025-01-16 12:56:45,462 - INFO - Attempting to download PDF for study 36207025
+2025-01-16 12:56:48,841 - ERROR - Error downloading PDF for study 36207025: URL does not point to a PDF (content-type: text/html; charset=utf-8)
+2025-01-16 12:56:48,842 - INFO - Attempting to download PDF for study 35862544
+2025-01-16 12:56:49,115 - ERROR - Error downloading PDF for study 35862544: 403 Client Error: Forbidden for url: https://www.science.org/doi/10.1126/science.abm5551
+2025-01-16 12:56:49,116 - INFO - Attempting to download PDF for study 35201862
+2025-01-16 12:56:49,418 - ERROR - Error downloading PDF for study 35201862: 403 Client Error: Forbidden for url: https://www.science.org/doi/10.1126/science.abg9868
+2025-01-16 12:56:49,419 - INFO - Attempting to download PDF for study 35177406
+2025-01-16 12:56:52,630 - ERROR - Error downloading PDF for study 35177406: URL does not point to a PDF (content-type: text/html; charset=utf-8)
+2025-01-16 12:56:52,631 - INFO - Attempting to download PDF for study 33812482
+2025-01-16 12:56:53,408 - ERROR - Error downloading PDF for study 33812482: URL does not point to a PDF (content-type: text/html;charset=utf-8)
+2025-01-16 13:05:01,074 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 13:05:06,091 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 13:07:15,204 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 13:07:19,822 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 13:07:20,639 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 13:07:21,548 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 13:07:22,117 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 13:07:22,798 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 13:07:23,554 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 13:07:24,176 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 13:07:24,841 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 13:07:25,659 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 13:07:26,683 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 13:10:29,697 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 13:10:34,381 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 13:10:35,199 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 13:10:35,985 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 13:10:36,737 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 13:10:37,453 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 13:10:38,027 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 13:10:38,478 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 13:10:39,295 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 13:10:40,137 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 13:10:41,029 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 13:11:49,895 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 13:11:54,663 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 13:11:55,684 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 13:11:56,813 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 13:12:00,805 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 13:12:01,727 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 13:12:02,445 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 13:12:03,160 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 13:12:03,878 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 13:12:04,696 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 13:12:05,617 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 13:14:52,998 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 13:14:57,650 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 13:14:58,364 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 13:14:59,186 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 13:14:59,764 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 13:15:00,401 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 13:15:01,130 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 13:15:01,951 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 13:15:02,666 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 13:15:03,485 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 13:15:04,406 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 13:17:09,191 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 13:17:10,738 - INFO - Stored text content for study 37198478
+2025-01-16 13:17:11,537 - INFO - Stored text content for study 36280256
+2025-01-16 13:17:12,783 - INFO - Stored text content for study 36224396
+2025-01-16 13:17:13,773 - INFO - Stored text content for study 36180795
+2025-01-16 13:17:14,862 - INFO - Stored text content for study 35255492
+2025-01-16 13:17:15,989 - INFO - Stored text content for study 34732887
+2025-01-16 13:17:16,811 - INFO - Stored text content for study 34040254
+2025-01-16 13:17:17,606 - INFO - Stored text content for study 33848468
+2025-01-16 13:17:18,416 - INFO - Stored text content for study 33495306
+2025-01-16 13:17:19,593 - INFO - Stored text content for study 33307546
+2025-01-16 13:17:19,593 - INFO - Attempting to download PDF for study 37198478
+2025-01-16 13:17:20,398 - ERROR - Error downloading PDF for study 37198478: URL does not point to a PDF (content-type: text/html; charset="utf-8")
+2025-01-16 13:17:20,398 - INFO - Attempting to download PDF for study 36280256
+2025-01-16 13:17:25,313 - ERROR - Error downloading PDF for study 36280256: URL does not point to a PDF (content-type: text/html; charset=utf-8)
+2025-01-16 13:17:25,314 - INFO - Attempting to download PDF for study 36224396
+2025-01-16 13:17:26,687 - ERROR - Error downloading PDF for study 36224396: URL does not point to a PDF (content-type: text/html; charset="utf-8")
+2025-01-16 13:17:26,688 - INFO - Attempting to download PDF for study 36180795
+2025-01-16 13:17:28,162 - ERROR - Error downloading PDF for study 36180795: URL does not point to a PDF (content-type: text/html; charset="utf-8")
+2025-01-16 13:17:28,163 - INFO - Attempting to download PDF for study 35255492
+2025-01-16 13:17:30,026 - ERROR - Error downloading PDF for study 35255492: URL does not point to a PDF (content-type: text/html; charset="utf-8")
+2025-01-16 13:17:30,027 - INFO - Attempting to download PDF for study 34732887
+2025-01-16 13:17:31,968 - ERROR - Error downloading PDF for study 34732887: URL does not point to a PDF (content-type: text/html; charset="utf-8")
+2025-01-16 13:17:31,969 - INFO - Attempting to download PDF for study 34040254
+2025-01-16 13:17:33,010 - ERROR - Error downloading PDF for study 34040254: URL does not point to a PDF (content-type: text/html; charset="utf-8")
+2025-01-16 13:17:33,011 - INFO - Attempting to download PDF for study 33848468
+2025-01-16 13:17:33,856 - ERROR - Error downloading PDF for study 33848468: URL does not point to a PDF (content-type: text/html;charset=utf-8)
+2025-01-16 13:17:33,857 - INFO - Attempting to download PDF for study 33495306
+2025-01-16 13:17:34,195 - ERROR - Error downloading PDF for study 33495306: 403 Client Error: Forbidden for url: https://www.science.org/doi/10.1126/science.abf4058
+2025-01-16 13:17:34,196 - INFO - Attempting to download PDF for study 33307546
+2025-01-16 13:17:35,246 - ERROR - Error downloading PDF for study 33307546: URL does not point to a PDF (content-type: text/html; charset="utf-8")
+2025-01-16 13:17:35,863 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 13:17:36,572 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 13:17:37,238 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 13:17:37,923 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 13:17:38,659 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 13:17:39,361 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 13:17:40,254 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 13:17:40,968 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 13:17:41,669 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 13:17:42,411 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"

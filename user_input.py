@@ -4,7 +4,7 @@ def collect_user_input():
     Return a dictionary with the topic, journals, date range, etc.
     """
     user_params = {
-        "topic": "Machine Learning in Healthcare",
+        "topic": "Parkinsons Disease and new medications",
         "journals": ["Nature", "Science", "Lancet", "BMJ"],
         "date_range": ("2020-01-01", "2023-12-31"),
         "min_relevance_score": 70,

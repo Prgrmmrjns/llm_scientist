@@ -1,0 +1,16 @@
+Title: Stroke genetics informs drug discovery and risk prediction across ancestries.
+Authors: Mishra A, Malik R, Hachiya T, Jurgenson T, Namba S, Posner DC, Kamanu FK, Koido M, Le Grand Q, Shi M, He Y, Georgakis MK, Caro I, Krebs K, Liaw YC, Vaura FC, Lin K, Winsvold BS, Srinivasasainagendra V, Parodi L, Bae HJ, Chauhan G, Chong MR, Tomppo L, Akinyemi R, Roshchupkin GV, Habib N, Jee YH, Thomassen JQ, Abedi V, Carcel-Marquez J, Nygaard M, Leonard HL, Yang C, Yonova-Doing E, Knol MJ, Lewis AJ, Judy RL, Ago T, Amouyel P, Armstrong ND, Bakker MK, Bartz TM, Bennett DA, Bis JC, Bordes C, Borte S, Cain A, Ridker PM, Cho K, Chen Z, Cruchaga C, Cole JW, de Jager PL, de Cid R, Endres M, Ferreira LE, Geerlings MI, Gasca NC, Gudnason V, Hata J, He J, Heath AK, Ho YL, Havulinna AS, Hopewell JC, Hyacinth HI, Inouye M, Jacob MA, Jeon CE, Jern C, Kamouchi M, Keene KL, Kitazono T, Kittner SJ, Konuma T, Kumar A, Lacaze P, Launer LJ, Lee KJ, Lepik K, Li J, Li L, Manichaikul A, Markus HS, Marston NA, Meitinger T, Mitchell BD, Montellano FA, Morisaki T, Mosley TH, Nalls MA, Nordestgaard BG, O'Donnell MJ, Okada Y, Onland-Moret NC, Ovbiagele B, Peters A, Psaty BM, Rich SS, Rosand J, Sabatine MS, Sacco RL, Saleheen D, Sandset EC, Salomaa V, Sargurupremraj M, Sasaki M, Satizabal CL, Schmidt CO, Shimizu A, Smith NL, Sloane KL, Sutoh Y, Sun YV, Tanno K, Tiedt S, Tatlisumak T, Torres-Aguila NP, Tiwari HK, Tregouet DA, Trompet S, Tuladhar AM, Tybjaerg-Hansen A, van Vugt M, Vibo R, Verma SS, Wiggins KL, Wennberg P, Woo D, Wilson PWF, Xu H, Yang Q, Yoon K, Millwood IY, Gieger C, Ninomiya T, Grabe HJ, Jukema JW, Rissanen IL, Strbian D, Kim YJ, Chen PH, Mayerhofer E, Howson JMM, Irvin MR, Adams H, Wassertheil-Smoller S, Christensen K, Ikram MA, Rundek T, Worrall BB, Lathrop GM, Riaz M, Simonsick EM, Korv J, Franca PHC, Zand R, Prasad K, Frikke-Schmidt R, de Leeuw FE, Liman T, Haeusler KG, Ruigrok YM, Heuschmann PU, Longstreth WT, Jung KJ, Bastarache L, Pare G, Damrauer SM, Chasman DI, Rotter JI, Anderson CD, Zwart JA, Niiranen TJ, Fornage M, Liaw YP, Seshadri S, Fernandez-Cadenas I, Walters RG, Ruff CT, Owolabi MO, Huffman JE, Milani L, Kamatani Y, Dichgans M, Debette S
+Journal: Nature
+Year: 2022
+DOI: 10.1038/s41586-022-05165-3
+PMID: 36180795
+
+Abstract:
+Previous genome-wide association studies (GWASs) of stroke - the second leading
+
+Relevance Assessment:
+Score: N/A
+Explanation: N/A
+
+PDF Status:
+Download Status: not_attempted

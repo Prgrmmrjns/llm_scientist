@@ -1,0 +1,16 @@
+Title: GWAS and meta-analysis identifies 49 genetic variants underlying critical
+Authors: Pairo-Castineira E, Rawlik K, Bretherick AD, Qi T, Wu Y, Nassiri I, McConkey GA, Zechner M, Klaric L, Griffiths F, Oosthuyzen W, Kousathanas A, Richmond A, Millar J, Russell CD, Malinauskas T, Thwaites R, Morrice K, Keating S, Maslove D, Nichol A, Semple MG, Knight J, Shankar-Hari M, Summers C, Hinds C, Horby P, Ling L, McAuley D, Montgomery H, Openshaw PJM, Begg C, Walsh T, Tenesa A, Flores C, Riancho JA, Rojas-Martinez A, Lapunzina P, Yang J, Ponting CP, Wilson JF, Vitart V, Abedalthagafi M, Luchessi AD, Parra EJ, Cruz R, Carracedo A, Fawkes A, Murphy L, Rowan K, Pereira AC, Law A, Fairfax B, Hendry SC, Baillie JK
+Journal: Nature
+Year: 2023
+DOI: 10.1038/s41586-023-06034-3
+PMID: 37198478
+
+Abstract:
+Critical illness in COVID-19 is an extreme and clinically homogeneous disease
+
+Relevance Assessment:
+Score: N/A
+Explanation: N/A
+
+PDF Status:
+Download Status: not_attempted

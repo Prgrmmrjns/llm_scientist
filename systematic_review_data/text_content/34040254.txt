@@ -1,0 +1,16 @@
+Title: Enhancer release and retargeting activates disease-susceptibility genes.
+Authors: Oh S, Shao J, Mitra J, Xiong F, D'Antonio M, Wang R, Garcia-Bassets I, Ma Q, Zhu X, Lee JH, Nair SJ, Yang F, Ohgi K, Frazer KA, Zhang ZD, Li W, Rosenfeld MG
+Journal: Nature
+Year: 2021
+DOI: 10.1038/s41586-021-03577-1
+PMID: 34040254
+
+Abstract:
+The functional engagement between an enhancer and its target promoter ensures
+
+Relevance Assessment:
+Score: N/A
+Explanation: N/A
+
+PDF Status:
+Download Status: not_attempted
